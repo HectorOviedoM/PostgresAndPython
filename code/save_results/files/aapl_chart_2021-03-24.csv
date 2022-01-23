@@ -1,0 +1,2 @@
+,close,high,low,open,symbol,volume,id,key,subkey,date,updated,changeOverTime,marketChangeOverTime,uOpen,uClose,uHigh,uLow,uVolume,fOpen,fClose,fHigh,fLow,fVolume,label,change,changePercent
+0,120.09,122.9,120.065,122.82,AAPL,88530485,HISTORICAL_PRICES,AAPL,,2021-03-24,1636136473000,0,0,122.82,120.09,122.9,120.065,88530485,122.2499,119.5326,122.3295,119.5077,88530485,"Mar 24, 21",0,0

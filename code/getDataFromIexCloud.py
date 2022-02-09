@@ -19,7 +19,7 @@ class DataIexCloud:
         """
         token = token api of iexCloud
         """
-        self.token = 'pk_3b82f0a291fa4e6daa46dabd3443f03d'
+        self.token = ''
 
     def getData(self, date):
         """

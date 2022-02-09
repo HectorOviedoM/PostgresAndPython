@@ -12,7 +12,7 @@ class Database:
         :param db: name of a database to connect
         """
         self.db = db
-        self.engine = create_engine(f'postgresql+psycopg2://hectoroviedo:hectoroviedo@mutt-exam.cirg5x3onb97.us-east-1.rds.amazonaws.com/{self.db}')
+        self.engine = create_engine(f'postgresql+psycopg2://user:password@host/{self.db}')
         self.connection = self.engine.connect()
 
     def queryData(self, query):
